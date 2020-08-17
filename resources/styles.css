@@ -3,10 +3,10 @@
     src: url("../resources/font/Santana.ttf")
 }
 
-@font-face {
+/* @font-face {
     font-family: "Mark My Words";
     src: url("../resources/font/mark_my_words.ttf")
-}
+} */
 
 * {
     box-sizing: border-box;
